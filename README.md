@@ -12,8 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any basic front-end applications
 - 📫 How to reach me: sultaanmuzzammil@gmail.com
 - 😄 Pronouns: he/him
--->
 
-### Happy Coding!
-
-###
+Happy Coding :)
