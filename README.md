@@ -1,7 +1,4 @@
 ### Hi there I'm Muzzammil👋
-
-<!--
-
 Here's What I'm Working On:
 
 - 🔭 I’m currently working on some front-end projects like my portfolio, and web apps using HTML, CSS and JS
